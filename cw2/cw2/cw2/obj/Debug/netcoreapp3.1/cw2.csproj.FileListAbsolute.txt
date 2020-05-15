@@ -212,3 +212,14 @@
 /home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/obj/Debug/netcoreapp3.1/cw2.dll
 /home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/obj/Debug/netcoreapp3.1/cw2.pdb
 /home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/obj/Debug/netcoreapp3.1/cw2.genruntimeconfig.cache
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/System.Web.Http.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/System.Web.Http.WebHost.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/Microsoft.Web.Infrastructure.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/Swashbuckle.Core.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/bin/Debug/netcoreapp3.1/WebActivatorEx.dll
+/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/obj/Debug/netcoreapp3.1/cw2.MvcApplicationPartsAssemblyInfo.cs
