@@ -24,24 +24,9 @@ namespace cw2.Controllers
         [HttpGet("{id}")]
         public IActionResult GetStudent(string id)
         {
-            var student = new StudentInfoDTO();
-            using (SqlConnection connection = new SqlConnection(ConString))
-            using (SqlCommand command = new SqlCommand())
-            {
-                command.Connection = connection;
-                command.CommandText = "select s.FirstName, s.LastName, s.BirthDate, s.IndexNumber, st.Name, e.Semester from Student s " +
-                    "join Enrollment e on e.IdEnrollment = s.IdEnrollment join Studies st on st.IdStudy = e.IdStudy " +
-                    $"where s.IndexNumber = '{id}'";
-                connection.Open();
-                SqlDataReader dataReader = command.ExecuteReader();
-                dataReader.Read();
-                student.FirstName = dataReader["FirstName"].ToString();
-                student.LastName = dataReader["LastName"].ToString();
-                student.Name = dataReader["Name"].ToString();
-                student.BirthData = dataReader["BirthDate"].ToString();
-                student.Semester = dataReader["Semester"].ToString();
-            }
-            return Ok(student);
+            var result = _dbService.GetStudent(id);
+            if (result != null) return Ok(result);
+            return NotFound();
         }
 
         [HttpGet]
