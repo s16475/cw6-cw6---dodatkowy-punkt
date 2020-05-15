@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E9744CCD-F3D2-4C7C-9CB7-3BB06CBFD460}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cw2/Controllers/StudentsController.cs">
+    <Files>
+      <File FileName="cw2/Controllers/StudentsController.cs" Line="42" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cw2" expanded="True">
+            <Node name="cw2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudentsController.cs" selected="True" />
+              </Node>
+              <Node name="DTOs" expanded="True">
+                <Node name="Requests" expanded="True" />
+                <Node name="Responses" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.cw2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
