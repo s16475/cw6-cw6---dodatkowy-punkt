@@ -1,3 +1,3 @@
-# cw5-cw10
+# cw6 - dodatkowy punkt
 Grzegorz Piotrowski, S16475
-Cwiczenia nr 5 (Wyklad 10)
+Cwiczenia nr 6 (Wyklad 6) - zadanie dodatkowe
