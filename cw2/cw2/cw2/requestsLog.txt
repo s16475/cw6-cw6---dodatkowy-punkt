@@ -1,0 +1,8 @@
+Method: GET
+Path: /api/students/s11111
+Query: 
+Request body:
+{
+"StudiesId": 1,
+"Semester": 1
+}

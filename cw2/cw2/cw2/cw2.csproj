@@ -19,5 +19,6 @@
     <Folder Include="DAL\" />
     <Folder Include="SQL\" />
     <Folder Include="Services\" />
+    <Folder Include="Middlewares\" />
   </ItemGroup>
 </Project>

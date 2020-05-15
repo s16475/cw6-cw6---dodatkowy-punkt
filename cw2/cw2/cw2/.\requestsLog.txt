@@ -1,0 +1,3 @@
+metoda:GET;sciezka:/weatherforecast;bodystr:;querystr:
+metoda:GET;sciezka:/api/students/s11111;bodystr:;querystr:
+metoda:GET;sciezka:/api/students/;bodystr:;querystr:

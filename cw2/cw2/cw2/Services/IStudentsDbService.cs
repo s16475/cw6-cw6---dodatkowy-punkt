@@ -9,5 +9,6 @@ namespace cw2.Services
         IActionResult EnrollStudent(EnrollStudentRequest request);
         IActionResult PromoteStudent(PromoteStudentRequest promote);
         IActionResult GetStudent(string id);
+        void logIntoFile(string data);
     }
 }

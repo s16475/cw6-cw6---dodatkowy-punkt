@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Globalization;
+using System.IO;
 using cw2.DTOs.Requests;
 using cw2.DTOs.Responses;
 using cw2.Models;
@@ -189,6 +190,13 @@ namespace cw2.Services
             com.Parameters.Clear();
 
             return wynik;
+        }
+
+        public void logIntoFile(string data)
+        {
+            var sw = new StreamWriter(@"requestsLog.txt");
+            sw.WriteLine(data);
+            sw.Close();
         }
     }
 }
