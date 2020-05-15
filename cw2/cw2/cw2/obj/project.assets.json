@@ -6373,11 +6373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/grzesiek/Pobrane/cw2/cw2/cw2/cw2/cw2.csproj",
+      "projectUniqueName": "/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/cw2.csproj",
       "projectName": "cw2",
-      "projectPath": "/home/grzesiek/Pobrane/cw2/cw2/cw2/cw2/cw2.csproj",
+      "projectPath": "/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/cw2.csproj",
       "packagesPath": "/home/grzesiek/.nuget/packages/",
-      "outputPath": "/home/grzesiek/Pobrane/cw2/cw2/cw2/cw2/obj/",
+      "outputPath": "/home/grzesiek/Pobrane/cw6-cw6---dodatkowy-punkt/cw2/cw2/cw2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/grzesiek/.config/NuGet/NuGet.Config"
